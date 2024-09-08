@@ -1,15 +1,29 @@
 SympAi - AI-Powered Disease Prediction and Recommendation System
 developed by muhammad kasim s
 
-overview
+
 SympAi is an advanced AI-powered platform designed to transform healthcare by predicting diseases and providing personalized health recommendations based on symptoms. Combining cutting-edge machine learning (ML) and natural language processing (NLP) techniques, SympAi delivers fast, reliable, and actionable insights to support informed decision-making for both healthcare professionals and patients.
 
-Key Features
-🌟 Precision Disease Prediction: Powered by a finely-tuned Random Forest model with GridSearchCV, ensuring high accuracy and dependable diagnostic results.
-🧬 Smart Symptom Analysis: Uses FastText for context-aware vectorization of symptoms, enabling precise interpretation of complex medical descriptions.
-📊 Data-Driven Insights: Efficiently processes over 5,000 patient records with comprehensive data management and advanced preprocessing pipelines.
-🔍 Real-Time Health Advice: Leverages DistilBERT to provide personalized, evidence-based health recommendations instantly.
+Key Features:
+
+
+🌟 Precision Disease Prediction:
+Powered by a finely-tuned Random Forest model with GridSearchCV, ensuring high accuracy and dependable diagnostic results.
+
+
+🧬 Smart Symptom Analysis:
+Uses FastText for context-aware vectorization of symptoms, enabling precise interpretation of complex medical descriptions.
+
+
+📊 Data-Driven Insights: 
+Efficiently processes over 5,000 patient records with comprehensive data management and advanced preprocessing pipelines.
+
+
+🔍 Real-Time Health Advice: 
+Leverages DistilBERT to provide personalized, evidence-based health recommendations instantly.
 Tech Stack Highlights
+
+
 Machine Learning: Random Forest, XGBoost, GridSearchCV for high accuracy and performance.
 NLP Models: FastText for symptom vectorization, DistilBERT for insightful health recommendations.
 Core Technologies: Python, Scikit-Learn, TensorFlow, PyTorch, Flask, Docker.
