@@ -1,0 +1,330 @@
+[
+    {
+        "predicted_disease": "Fungal infection",
+        "description": "Fungal infection is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Allergy",
+        "description": "Allergy is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "GERD",
+        "description": "GERD is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Chronic cholestasis",
+        "description": "Chronic cholestasis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Drug Reaction",
+        "description": "Drug Reaction is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Peptic ulcer diseae",
+        "description": "Peptic ulcer diseae is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "AIDS",
+        "description": "AIDS is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Diabetes ",
+        "description": "Diabetes  is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Gastroenteritis",
+        "description": "Gastroenteritis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Bronchial Asthma",
+        "description": "Bronchial Asthma is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hypertension ",
+        "description": "Hypertension  is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Migraine",
+        "description": "Migraine is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Cervical spondylosis",
+        "description": "Cervical spondylosis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Paralysis (brain hemorrhage)",
+        "description": "Paralysis (brain hemorrhage) is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Jaundice",
+        "description": "Jaundice is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Malaria",
+        "description": "Malaria is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Chicken pox",
+        "description": "Chicken pox is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Dengue",
+        "description": "Dengue is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Typhoid",
+        "description": "Typhoid is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "hepatitis A",
+        "description": "hepatitis A is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hepatitis B",
+        "description": "Hepatitis B is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hepatitis C",
+        "description": "Hepatitis C is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hepatitis D",
+        "description": "Hepatitis D is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hepatitis E",
+        "description": "Hepatitis E is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Alcoholic hepatitis",
+        "description": "Alcoholic hepatitis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Tuberculosis",
+        "description": "Tuberculosis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Common Cold",
+        "description": "Common Cold is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Pneumonia",
+        "description": "Pneumonia is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Dimorphic hemmorhoids(piles)",
+        "description": "Dimorphic hemmorhoids(piles) is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Heart attack",
+        "description": "Heart attack is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Varicose veins",
+        "description": "Varicose veins is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hypothyroidism",
+        "description": "Hypothyroidism is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hyperthyroidism",
+        "description": "Hyperthyroidism is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Hypoglycemia",
+        "description": "Hypoglycemia is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Osteoarthristis",
+        "description": "Osteoarthristis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Arthritis",
+        "description": "Arthritis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "(vertigo) Paroymsal  Positional Vertigo",
+        "description": "(vertigo) Paroymsal  Positional Vertigo is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Acne",
+        "description": "Acne is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Urinary tract infection",
+        "description": "Urinary tract infection is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Psoriasis",
+        "description": "Psoriasis is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    },
+    {
+        "predicted_disease": "Impetigo",
+        "description": "Impetigo is a medical condition that requires appropriate treatment and management.",
+        "precautions": "Follow prescribed medications, avoid triggers, and regularly consult with healthcare professionals.",
+        "lifestyle_recommendations": "Maintain a balanced lifestyle, manage stress, and follow a healthy routine.",
+        "diet_recommendations": "Adopt a balanced diet rich in nutrients, avoid harmful foods specific to the condition.",
+        "exercise_recommendations": "Engage in regular physical activity as recommended by healthcare providers."
+    }
+]
