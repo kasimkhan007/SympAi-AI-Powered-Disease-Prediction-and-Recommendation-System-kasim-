@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/4s.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="{{ url_for("static",filename="/image/logokasim.png") }}" alt="SympAI" class="logo">
+            <h1>Recommendations for {{ predicted_disease }}</h1>
+        </header>
+        <p><strong>Name:</strong> {{ name }}</p>
+        <p><strong>Age:</strong> {{ age }}</p>
+        <p><strong>Gender:</strong> {{ gender }}</p>
+        <p><strong>Disease:</strong> {{ predicted_disease }}</p>
+
+        <div class="recommendation-box">
+            <h2>Description</h2>
+            <p>{{ description }}</p>
+        </div>
+
+        <div class="recommendation-box">
+            <h2>Precautions</h2>
+            <p>{{ recommendations['precautions'] }}</p>
+        </div>
+
+        <div class="recommendation-box">
+            <h2>Lifestyle Recommendations</h2>
+            <p>{{ recommendations['lifestyle_recommendations'] }}</p>
+        </div>
+
+        <div class="recommendation-box">
+            <h2>Diet Recommendations</h2>
+            <p>{{ recommendations['diet_recommendations'] }}</p>
+        </div>
+
+        <div class="recommendation-box">
+            <h2>Exercise Recommendations</h2>
+            <p>{{ recommendations['exercise_recommendations'] }}</p>
+        </div>
+
+        <a href="{{ url_for('input_page') }}">Back to Input Page</a>
+    </div>
+</body>
+</html>

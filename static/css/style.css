@@ -1,0 +1,227 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(to bottom right, rgba(219, 255, 248, 0.201), rgba(198, 206, 245, 0.22)),url("../../static/image/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    animation: fadeIn 1.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 700px;
+    margin: auto;
+    animation: slideIn 1s ease-in-out;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    animation: bounceIn 1s ease-in-out;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    animation: fadeInDown 0.8s ease-in-out;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #34495e;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    animation: fadeInUp 0.8s ease-in-out;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.content p, label {
+    font-size: 1.1em;
+    margin-bottom: 12px;
+    color: #333;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.content h2 {
+    font-size: 1.8em;
+    color: #16a085;
+    margin-top: 20px;
+    border-bottom: 2px solid #16a085;
+    padding-bottom: 8px;
+    animation: fadeInLeft 0.8s ease-in-out;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #d1d8e0;
+    border-radius: 8px;
+    font-size: 1em;
+    background-color: #f8f9fa;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: #3498db;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.4);
+    outline: none;
+}
+
+.btn {
+    background-color: #16a085;
+    color: white;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2em;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0px 6px 15px rgba(22, 160, 133, 0.3);
+    animation: pulse 1.5s infinite;
+}
+
+.btn:hover {
+    background-color: #1abc9c;
+    transform: translateY(-3px);
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.85em;
+    color: #7f8c8d;
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-top: 1px solid #e0e0e0;
+}
+
+footer p {
+    margin: 5px 0;
+    color: #2c3e50;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: #16a085;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #1abc9c;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(70px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes bounceIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.3);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.1);
+    }
+    70% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}

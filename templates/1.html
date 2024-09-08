@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SympAI - Welcome</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/1s.css') }}">
+</head>
+<body class="home">
+    <div class="container">
+        <header>
+           <img src="{{ url_for('static', filename='/image/logokasim.png') }}" alt="SympAI" class="logo">
+           <h1>Welcome to SympAI</h1>
+        </header>
+        <div class="content">
+            <p>Your personal AI-powered disease prediction and recommendation system.</p>
+            <a href="{{ url_for('input_page') }}" class="btn">Get Started</a>
+        </div>
+        <footer>
+            <p>© 2024 SympAI.</p>
+            <ul>
+                <li><a href="mailto:kasimkhanofficial07@gmail.com">feedback@kasimkhanofficial07@gmail.com</a></li>
+            </ul>
+        </footer>
+    </div>
+</body>
+</html>

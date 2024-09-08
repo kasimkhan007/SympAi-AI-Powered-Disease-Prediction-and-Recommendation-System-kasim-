@@ -1,0 +1,167 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(to bottom right, rgba(219, 255, 248, 0.201), rgba(198, 206, 245, 0.22)),url("../../static/image/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    animation: backgroundFade 2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.54); /* White background with 95% opacity */
+}
+
+.recommendation-box {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.9); /* White background with 90% opacity */
+}
+
+.recommendation-box h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 150px;
+    height: auto;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
+p {
+    font-size: 1.1em;
+    margin: 10px 0;
+    line-height: 1.6;
+    color: #2c3e50;
+    animation: fadeInContent 1.5s ease-in-out;
+    max-width: 800px;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #16a085;
+    margin: 20px 0;
+    border-bottom: 2px solid #16a085;
+    padding-bottom: 8px;
+    animation: fadeInSection 1.5s ease-in-out;
+}
+
+a {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 12px 20px;
+    font-size: 1.1em;
+    color: white;
+    background-color: #16a085;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(22, 160, 133, 0.3);
+    animation: buttonPulse 2s infinite;
+}
+
+
+
+/* Animations */
+@keyframes backgroundFade {
+    from {
+        background-color: #000;
+    }
+    to {
+        background: linear-gradient(to bottom right, rgba(219, 255, 248, 0.201), rgba(198, 206, 245, 0.22)),url("../../static/image/background.jpg") no-repeat center center fixed;
+    }
+}
+
+@keyframes headerFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes logoSpin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes textReveal {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInContent {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInSection {
+    from {
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes buttonPulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}

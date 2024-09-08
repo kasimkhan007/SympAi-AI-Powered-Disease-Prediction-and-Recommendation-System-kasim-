@@ -1,0 +1,221 @@
+body.home {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-position: center;
+    background: linear-gradient(to bottom right, rgba(219, 255, 248, 0.201), rgba(198, 206, 245, 0.22)),url("../../static/image/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #fff;
+    text-align: center;
+    animation: backgroundFade 3s ease-in-out;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6); /* Dark semi-transparent background */
+    padding: 40px 60px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    animation: containerSlideIn 1.5s ease-in-out;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    animation: headerFadeIn 2s ease-in-out;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    animation: logoBounceIn 1.5s ease-in-out;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin: 0;
+    color: #ffffff;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    letter-spacing: 1.5px;
+    animation: textReveal 1.8s ease-in-out forwards;
+    opacity: 0;
+}
+
+.content {
+    margin-top: 20px;
+    animation: contentFadeIn 2s ease-in-out;
+}
+
+.content p {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+    line-height: 1.4;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    color: #fff;
+    background-color: #007BFF;
+    text-decoration: none;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    animation: buttonPulse 2s infinite;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+footer {
+    margin-top: 30px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 15px;
+    animation: footerSlideIn 2.5s ease-in-out;
+}
+
+footer p, footer ul {
+    margin: 5px 0;
+    opacity: 0;
+    animation: footerTextFadeIn 2.8s ease-in-out forwards;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+footer ul li a {
+    color: #00FFFF;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #00FF7F;
+}
+
+/* Animations */
+@keyframes logoBounceIn {
+    0% {
+        transform: scale(0.3);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 1;
+    }
+    70% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes textReveal {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes contentFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes buttonPulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+@keyframes footerSlideIn {
+    0% {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes footerTextFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes backgroundFade {
+    0% {
+        background-color: #000;
+    }
+    100% {
+        background: linear-gradient(to bottom right, rgba(219, 255, 248, 0.201), rgba(198, 206, 245, 0.22)),url("../../static/image/background.jpg") no-repeat center center fixed;
+
+    }
+}
+
+@keyframes headerFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes containerSlideIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
