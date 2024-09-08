@@ -2,7 +2,7 @@ SympAi - AI-Powered Disease Prediction and Recommendation System
 developed by muhammad kasim s
 
 Overview
-Welcome to SympAi, an innovative AI-driven healthcare solution created by Muhammad Kasim S. This tool is designed to predict diseases and provide personalized health recommendations based on user symptoms. By leveraging advanced machine learning (ML) algorithms and cutting-edge natural language processing (NLP) techniques, SympAi offers fast, reliable, and tailored insights that empower both healthcare professionals and patients to make informed decisions.
+Welcome to SympAi, an innovative AI-driven healthcare solution . This tool is designed to predict diseases and provide personalized health recommendations based on user symptoms. By leveraging advanced machine learning (ML) algorithms and cutting-edge natural language processing (NLP) techniques, SympAi offers fast, reliable, and tailored insights that empower both healthcare professionals and patients to make informed decisions.
 
 Key Features
 🌟 Precision Disease Prediction: Developed using the powerful Random Forest model, fine-tuned with GridSearchCV to achieve exceptional predictive accuracy, ensuring robust and dependable diagnostic outcomes.
