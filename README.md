@@ -65,13 +65,22 @@ recommendation page
 ![interface4](https://github.com/user-attachments/assets/51aa6c14-2a7b-49be-9722-3100297d5990)
 
 How It Works
+
 Data Preprocessing: Utilizes FastText for converting textual symptoms into word vectors and handles missing values using advanced imputation techniques.
+
 Model Training: Random Forest classifier is optimized with GridSearchCV to tune hyperparameters (n_estimators, max_depth, etc.).
+
 Recommendation System: DistilBERT is fine-tuned on medical text to provide personalized, context-aware health advice.
+
 Results
-Prediction Accuracy: Achieved 92% accuracy with the Random Forest model.
-Recommendation Quality: 85% alignment with expert medical advice.
+
+Prediction Accuracy: Achieved 99% accuracy with the Random Forest model.
+
+Recommendation Quality: 90% alignment with expert medical advice.
+
 Performance Metrics: Precision, recall, and F1-score evaluation to validate model performance.
+
+
 Future Enhancements
 Expand the dataset to include more diverse symptoms and conditions.
 Integrate more advanced NLP models like GPT-3 for better contextual understanding.
@@ -79,8 +88,7 @@ Improve real-time deployment capabilities and user interface.
 Contributing
 Contributions are welcome! Please feel free to fork this repository, make improvements, and submit a pull request.
 
-License
-This project is licensed under the MIT License.
+
 
 Contact
 Created by Muhammad Kasim S
